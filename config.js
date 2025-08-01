@@ -196,7 +196,7 @@ var config = {
         },
          {
             id: '7',
-            alignment: 'centered',
+            alignment: 'right',
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/j9w5ZkZC/MEF-AAP-027-BAP-PART-II-2025-07-30-06-28-20.png',
